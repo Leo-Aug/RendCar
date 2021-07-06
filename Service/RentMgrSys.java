@@ -1,7 +1,5 @@
 package Service;
-import java.util.Scanner;
 import User.*;
-import Model.MotoVehicle;
 /**
  * 汽车租赁管理类
  */
